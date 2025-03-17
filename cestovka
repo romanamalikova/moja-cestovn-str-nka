@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cestovná Agentúra - Dovolenky</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Vitajte v našej cestovnej agentúre</h1>
+        <p>Objavte úžasné destinácie pre vašu dovolenku!</p>
+    </header>
+    <section class="destinations">
+        <div class="destination">
+            <img src="maldivy.jpg" alt="Maldivy">
+            <h2>Maldivy</h2>
+            <p>Rajské ostrovy s bielym pieskom a tyrkysovým morom.</p>
+        </div>
+        <div class="destination">
+            <img src="pariz.jpg" alt="Paríž">
+            <h2>Paríž</h2>
+            <p>Mesto lásky so slávnou Eiffelovou vežou.</p>
+        </div>
+        <div class="destination">
+            <img src="tatry.jpg" alt="Vysoké Tatry">
+            <h2>Vysoké Tatry</h2>
+            <p>Perfektné miesto pre turistiku a zimné športy.</p>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2025 Cestovná agentúra. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
